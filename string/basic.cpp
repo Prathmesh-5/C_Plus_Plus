@@ -13,7 +13,7 @@ int main(){
 
 
 
-    // taking string as a input from  in right way
+    // taking string as a input from user in right way
     string y;
     cout<<"Enter any string : "; // if i entered : prathmesh chauhan is great
     getline(cin, y);
