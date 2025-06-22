@@ -6,7 +6,7 @@
 
 */
 
-#include<iostream>
+#include<iostream>3
 using namespace std;
 
 void sqNum(int n){
