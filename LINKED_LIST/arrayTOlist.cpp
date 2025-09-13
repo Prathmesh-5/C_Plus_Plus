@@ -29,7 +29,7 @@ int main(){
     for(int i=0;i<vec.size();i++){
         cin>>vec[i];
 
-        if(i==0){
+        if(Head==NULL){
             temp=new Node(vec[i]);
             Head=temp;
         }
